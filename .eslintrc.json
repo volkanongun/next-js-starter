@@ -16,7 +16,9 @@
     },
     "plugins": [
         "react",
-        "simple-import-sort"
+        "react-hooks",
+        "simple-import-sort",
+        "jsx-a11y"
     ],
     "rules": {
         "react/react-in-jsx-scope": "off",
